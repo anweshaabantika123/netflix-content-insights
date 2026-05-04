@@ -5,39 +5,39 @@ This project analyzes Netflix’s content library to uncover trends in content g
 The goal is to transform raw data into meaningful insights using Python (EDA) and Power BI (Dashboard).
 
 🎯 Objectives: <br>
-Understand content distribution (Movies vs TV Shows) <br>
-Identify top genres and ratings <br>
-Analyze content growth over time <br>
-Explore country-wise content contribution <br>
-Generate insights from data <br>
+- Understand content distribution (Movies vs TV Shows) <br>
+- Identify top genres and ratings <br>
+- Analyze content growth over time <br>
+- Explore country-wise content contribution <br>
+- Generate insights from data <br>
 
 🛠️ Tools & Technologies: <br>
-Python (Pandas, Matplotlib, Seaborn) <br>
-Power BI <br>
-Jupyter Notebook <br>
+- Python (Pandas, Matplotlib, Seaborn) <br>
+- Power BI <br>
+- Jupyter Notebook <br>
 
 🧹 Data Cleaning (Python): <br>
-Handled missing values <br>
-Split multi-value columns (Genre, Country) <br>
+- Handled missing values <br>
+- Split multi-value columns (Genre, Country) <br>
 
 📊 Exploratory Data Analysis (EDA): <br>
-Content distribution by type <br>
-Top genres and ratings <br>
-Year-wise and month-wise content growth <br>
-Country-wise analysis <br>
+- Content distribution by type <br>
+- Top genres and ratings <br>
+- Year-wise and month-wise content growth <br>
+- Country-wise analysis <br>
 
 📈 Dashboard Features (Power BI): <br>
 🔹 Page 1: Overview <br>
-Total Titles, Movies, TV Shows , Genres , Country <br>
-Content Growth Trend <br>
-Type Distribution <br>
+- Total Titles, Movies, TV Shows , Genres , Country <br>
+- Content Growth Trend <br>
+- Type Distribution <br>
 🔹 Page 2: Rating <br>
-Genre Distribution <br>
-Rating Distribution <br>
+- Genre Distribution <br>
+- Rating Distribution <br>
 🔹 Page 3: Country <br>
-Country-wise Contribution <br>
-Content Growth over Year <br>
-Content Growth over Month <br>
+- Country-wise Contribution <br>
+- Content Growth over Year <br>
+- Content Growth over Month <br>
 
 💡 Key Insights <br>
 - 69.7% content on Netflix is Movies and 30.3% content is TV shows. <br>
