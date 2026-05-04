@@ -26,18 +26,21 @@ The goal is to transform raw data into meaningful insights using Python (EDA) an
 - Year-wise and month-wise content growth <br>
 - Country-wise analysis <br>
 
-📈 Dashboard Features (Power BI): <br>
+📈 Dashboard Features (Power BI):
+
 🔹 Page 1: Overview 
 - Total Titles, Movies, TV Shows , Genres , Country <br>
 - Content Growth Trend <br>
-- Type Distribution <br>
+- Type Distribution 
+
 🔹 Page 2: Rating 
 - Genre Distribution <br>
-- Rating Distribution <br>
+- Rating Distribution 
+
 🔹 Page 3: Country
 - Country-wise Contribution <br>
 - Content Growth over Year <br>
-- Content Growth over Month <br>
+- Content Growth over Month
 
 💡 Key Insights
 - 69.7% content on Netflix is Movies and 30.3% content is TV shows. <br>
