@@ -1,4 +1,4 @@
-📊 Netflix Content Analysis Dashboard
+📊 Netflix Content Analysis Dashboard <br>
 🔍 Overview
 
 This project analyzes Netflix’s content library to uncover trends in content growth, genre popularity, ratings, and global distribution. <br>
