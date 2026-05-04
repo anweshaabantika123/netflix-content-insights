@@ -31,27 +31,25 @@ Country-wise analysis <br>
 Total Titles, Movies, TV Shows , Genres , Country <br>
 Content Growth Trend <br>
 Type Distribution <br>
-
 🔹 Page 2: Rating <br>
 Genre Distribution <br>
 Rating Distribution <br>
-
 🔹 Page 3: Country <br>
 Country-wise Contribution <br>
 Content Growth over Year <br>
 Content Growth over Month <br>
 
 💡 Key Insights <br>
-  69.7% content on Netflix is Movies and 30.3% content is TV shows. <br>
-  Netflix content sourced from 123 countries. <br>
-  Netflix content peaked in 2019 and then declined. <br>
-  International Movie is the top 1 genre with 2800 titles. <br>
-  TV-MA is the most common rating. <br>
-  46% Netflix content is mature-rated, Netflix is fundamentally an adult platform. <br>
-  Maximum content produced from United States. <br>
-  UK has most balanced Movie/TV split 66% movies and 34% tv shows. <br>
-  India is 92% movies- Bollywood rules the 92% movie share of india's 1000 titles. <br>
-  Maximum content release in july, july is the best month to content release. <br>
+- 69.7% content on Netflix is Movies and 30.3% content is TV shows. <br>
+- Netflix content sourced from 123 countries. <br>
+- Netflix content peaked in 2019 and then declined. <br>
+- International Movie is the top 1 genre with 2800 titles. <br>
+- TV-MA is the most common rating. <br>
+- 46% Netflix content is mature-rated, Netflix is fundamentally an adult platform. <br>
+- Maximum content produced from United States. <br>
+- UK has most balanced Movie/TV split 66% movies and 34% tv shows. <br>
+- India is 92% movies- Bollywood rules the 92% movie share of india's 1000 titles. <br>
+- Maximum content release in july, july is the best month to content release. <br>
 
 📸 Dashboard Preview
 
