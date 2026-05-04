@@ -26,7 +26,7 @@ The goal is to transform raw data into meaningful insights using Python (EDA) an
 - Year-wise and month-wise content growth <br>
 - Country-wise analysis <br>
 
-📈 Dashboard Features (Power BI):
+📈 Dashboard Features (Power BI): <br>
 🔹 Page 1: Overview 
 - Total Titles, Movies, TV Shows , Genres , Country <br>
 - Content Growth Trend <br>
