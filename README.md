@@ -4,42 +4,42 @@
 This project analyzes Netflix’s content library to uncover trends in content growth, genre popularity, ratings, and global distribution. <br>
 The goal is to transform raw data into meaningful insights using Python (EDA) and Power BI (Dashboard).
 
-🎯 Objectives: <br>
+🎯 Objectives:
 - Understand content distribution (Movies vs TV Shows) <br>
 - Identify top genres and ratings <br>
 - Analyze content growth over time <br>
 - Explore country-wise content contribution <br>
 - Generate insights from data <br>
 
-🛠️ Tools & Technologies: <br>
+🛠️ Tools & Technologies:
 - Python (Pandas, Matplotlib, Seaborn) <br>
 - Power BI <br>
 - Jupyter Notebook <br>
 
-🧹 Data Cleaning (Python): <br>
+🧹 Data Cleaning (Python):
 - Handled missing values <br>
 - Split multi-value columns (Genre, Country) <br>
 
-📊 Exploratory Data Analysis (EDA): <br>
+📊 Exploratory Data Analysis (EDA):
 - Content distribution by type <br>
 - Top genres and ratings <br>
 - Year-wise and month-wise content growth <br>
 - Country-wise analysis <br>
 
-📈 Dashboard Features (Power BI): <br>
-🔹 Page 1: Overview <br>
+📈 Dashboard Features (Power BI):
+🔹 Page 1: Overview 
 - Total Titles, Movies, TV Shows , Genres , Country <br>
 - Content Growth Trend <br>
 - Type Distribution <br>
-🔹 Page 2: Rating <br>
+🔹 Page 2: Rating 
 - Genre Distribution <br>
 - Rating Distribution <br>
-🔹 Page 3: Country <br>
+🔹 Page 3: Country
 - Country-wise Contribution <br>
 - Content Growth over Year <br>
 - Content Growth over Month <br>
 
-💡 Key Insights <br>
+💡 Key Insights
 - 69.7% content on Netflix is Movies and 30.3% content is TV shows. <br>
 - Netflix content sourced from 123 countries. <br>
 - Netflix content peaked in 2019 and then declined. <br>
