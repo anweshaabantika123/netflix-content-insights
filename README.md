@@ -27,7 +27,6 @@ Year-wise and month-wise content growth <br>
 Country-wise analysis <br>
 
 📈 Dashboard Features (Power BI): <br>
-
 🔹 Page 1: Overview <br>
 Total Titles, Movies, TV Shows , Genres , Country <br>
 Content Growth Trend <br>
@@ -42,8 +41,7 @@ Country-wise Contribution <br>
 Content Growth over Year <br>
 Content Growth over Month <br>
 
-💡 Key Insights
-
+💡 Key Insights <br>
   69.7% content on Netflix is Movies and 30.3% content is TV shows. <br>
   Netflix content sourced from 123 countries. <br>
   Netflix content peaked in 2019 and then declined. <br>
